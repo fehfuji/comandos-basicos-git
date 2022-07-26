@@ -1,0 +1,22 @@
+No GIT BASH:
+
+$cd + nome da pasta // para navegar até a pasta
+
+$ls // para listar pastas
+
+$mk dir // para criar pastas
+
+$git init // inicializar um repositório GIT
+
+$ ls -a // ver pastas ocultas
+
+$cd .. // voltar um nível
+
+$mv + nome_do_arquivo ./nome_da_pasta/ // mover
+
+$git add . // atualizar/enviar a pasta pro controle de versão local
+
+$git clone + link repositório // clonar repositório para local
+
+$git commit -m + mensagem // comitar e enviar para o GIT
+
